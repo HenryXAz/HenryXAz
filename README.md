@@ -47,20 +47,31 @@
 
 
 
+
+
 ___
+
 
 
 ## Estadísticas de Github
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryXAz&show_icons=true&theme=ayu-mirage)
+<div align="center">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=HenryXAz&show_icons=true&theme=ayu-mirage" />
+</div>
+
+
+
+
 
 
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryXAz&&theme=ayu-mirage" alt="most-languages" />
 </div>
+
+
 
 
 
