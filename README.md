@@ -15,6 +15,7 @@
     LinkedIn
     </a>
 </div>
+
 ### Acerca de mí
 
 * Soy estudiante de ingeniería en sistemas
