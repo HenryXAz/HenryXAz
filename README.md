@@ -59,18 +59,17 @@ ___
 
 
 <div align="center">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=HenryXAz&show_icons=true&theme=ayu-mirage" />
+    <img alt="github stats" src="https://github-readme-stats-nu-weld-26.vercel.app/api?username=HenryXAz&show_icons=true&theme=ayu-mirage" />
 </div>
-
-
 
 
 
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryXAz&&theme=ayu-mirage" alt="most-languages" />
+    <img src="https://github-readme-stats-nu-weld-26.vercel.app/api/top-langs/?username=HenryXAz&&theme=ayu-mirage&layout=pie" alt="most-languages" />
 </div>
+
 
 
 
