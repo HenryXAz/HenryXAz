@@ -6,7 +6,7 @@
 
 <div align="center">
     <p>
-       Soy estudiante de ingeniería en sistemas, apasionado por la tecnología y enfocado en el desarrollo web fullstack 
+       Soy recién egresado de ingeniería en sistemas, apasionado por la tecnología y enfocado en el desarrollo web fullstack 
     </p>
 </div>
 <div align="center">
@@ -18,9 +18,9 @@
 
 ### Acerca de mí
 
-* Soy estudiante de ingeniería en sistemas
+* Soy recién ingresado de ingeniería en sistemas
 * Estoy enfocado en el desarrollo web fullstack
-* Actualmente estoy aprendiendo Angular y C#
+* Apasionado por la tecnología
 
 ### Lenguajes y Herramientas
 
@@ -41,14 +41,11 @@
     <img width="40" alt="firebase" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" />
     <img width="40" alt="bash" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" />
     <img width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" />
+    <img width="40" alt="nginx" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nginx/nginx-original.svg" />
+    <img width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg" />
+    <img width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" />
+    <img width="40" alt="django" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain-wordmark.svg" />
 </div>
-
-
-
-
-
-
-
 
 ___
 
