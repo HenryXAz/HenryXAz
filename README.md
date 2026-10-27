@@ -1,79 +1,145 @@
 <div align="center">
-    <h1>
-        Hola ✋, soy Henry Gustavo Xitimul Az
-    </h1>
+
+# Hi, I'm Henry Gustavo Xitimul Az 👋
+
+### Backend / Full-Stack Developer
+
+**PHP · GO · JAVA · .NET · SQL · REST APIs · Docker · Linux**
+
+I build and maintain business applications, APIs, integrations and backend systems, with professional experience working in financial environments.
+
+[LinkedIn](https://www.linkedin.com/in/henry-gustavo-xitimul-az) • [Portfolio](https://henryxaz.github.io) • [Email](mailto:henry.gustavo.x.az@gmail.com)
+
 </div>
 
-<div align="center">
-    <p>
-       Soy recién egresado de ingeniería en sistemas, apasionado por la tecnología y enfocado en el desarrollo web fullstack 
-    </p>
-</div>
-<div align="center">
-    <a href="https://www.linkedin.com/in/henry-gustavo-xitimul-az">
-    	<img alt="linkedin" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="40" />
-    LinkedIn
-    </a>
-</div>
+---
 
-### Acerca de mí
+## 👨‍💻 About me
 
-* Soy recién ingresado de ingeniería en sistemas
-* Estoy enfocado en el desarrollo web fullstack
-* Apasionado por la tecnología
+I'm a software developer focused mainly on **backend development, business applications and system integrations**.
 
-### Lenguajes y Herramientas
+I have professional experience building and maintaining software in a financial environment, where reliability, data integrity, maintainability and careful changes to existing systems are especially important.
 
-<div align="center">
-	<img width="40" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
-    <img width="40" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" />
-    <img width="40" alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />
-    <img width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
-    <img width="40" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" />
-    <img width="40" alt="vue" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" />
-    <img width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
-    <img width="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" />
-    <img width="40" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" />
-    <img width="40" alt="tailwindcss" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-    <img width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="40" alt="oracle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" />
-    <img width="40" alt="firebase" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" />
-    <img width="40" alt="bash" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" />
-    <img width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" />
-    <img width="40" alt="nginx" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nginx/nginx-original.svg" />
-    <img width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg" />
-    <img width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" />
-    <img width="40" alt="django" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain-wordmark.svg" />
-</div>
+My work commonly involves:
 
-___
+- Developing and maintaining backend applications
+- Building REST APIs and third-party integrations
+- Implementing business rules and workflows
+- Working with SQL databases
+- Authentication, roles and permissions
+- Background jobs and asynchronous processing
+- File processing and external storage integrations
+- Maintaining and improving existing systems
+- Working with Docker and Linux environments
 
+I enjoy understanding the business problem behind a feature before implementing the technical solution.
 
+---
 
-## Estadísticas de Github
+## 🛠️ Main Stack
 
+### Backend
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="JAVA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" alt="Dotnet"/>
+</p>
 
-<div align="center">
-    <img alt="github stats" src="https://github-readme-stats-nu-weld-26.vercel.app/api?username=HenryXAz&show_icons=true&theme=ayu-mirage" />
-</div>
+**PHP · Laravel · Slim · Python · REST APIs**
 
+### Frontend
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" alt="Angular"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="Angular"/>
+</p>
 
+**JavaScript · TypeScript · Angular**
 
-<div align="center">
-    <img src="https://github-readme-stats-nu-weld-26.vercel.app/api/top-langs/?username=HenryXAz&&theme=ayu-mirage&layout=pie" alt="most-languages" />
-</div>
+### Databases
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+</p>
 
+**MySQL · PostgreSQL · SQL**
 
+### Infrastructure & Tools
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" alt="Nginx"/>
+</p>
 
+**Docker · Linux · Git · Nginx · RabbitMQ**
 
+---
 
+## 💼 What I work on
 
-<div align="center">
-    <img alt="streak-stats" src="https://streak-stats.demolab.com?user=HenryXAz&theme=ayu-mirage" />
+I'm particularly interested in projects involving:
+
+- 🧩 Existing Backend / SQL applications
+- 🔗 REST API development and integrations
+- 🏢 Business and administrative systems
+- 🔐 Authentication, authorization and RBAC
+- ⚙️ Background processing and message queues
+- 📁 File processing and storage integrations
+- 🗄️ Database-driven applications
+- 🐳 Dockerized development environments
+- 🔧 Refactoring and modernization of existing systems
+
+---
+
+## 🚀 Selected Work
+
+### Business Workflow Applications
+
+Development and maintenance of business applications involving multi-step workflows, permissions, approvals, document processing and complex business rules.
+
+**Technologies:** Backend · SQL · REST APIs
+
+---
+
+### API & Service Integrations
+
+Backend integrations with external services, including authentication, validation, error handling, file exchange and data synchronization.
+
+**Technologies:** REST APIs · MySQL · Docker
+
+---
+
+## 📌 Featured Projects
+
+I'm currently building public technical projects and case studies around topics such as:
+
+- Backend + RabbitMQ background workers
+- REST APIs with authentication and RBAC
+- Business application architecture
+- Dockerized PHP development environments
+- API integrations
+- MySQL-backed applications
+
+> Some of my professional work is part of private business systems, so public examples focus on anonymized case studies and independent technical implementations.
+
+---
+
+## 🤝 Let's connect
+
+I'm open to freelance collaborations involving backend development, APIs, integrations, PHP application maintenance and business systems.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/henry-gustavo-xitimul-az)
+- 🌐 [Portfolio](https://henryxaz.github.io)
+- 📧 [Email](mailto:henry.gustavo.x.az@gmail.com)
+
 </div>
