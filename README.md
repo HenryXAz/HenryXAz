@@ -8,7 +8,7 @@
 
 I build and maintain business applications, APIs, integrations and backend systems, with professional experience working in financial environments.
 
-[LinkedIn](https://www.linkedin.com/in/henry-gustavo-xitimul-az) • [Portfolio](https://henryxaz.github.io) • [Email](mailto:henry.gustavo.x.az@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/henry-gustavo-xitimul-az) • [Personal Page](https://henryxaz.github.io) • [Email](mailto:henry.gustavo.x.az@gmail.com)
 
 </div>
 
@@ -139,7 +139,7 @@ I'm currently building public technical projects and case studies around topics 
 I'm open to freelance collaborations involving backend development, APIs, integrations, PHP application maintenance and business systems.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/henry-gustavo-xitimul-az)
-- 🌐 [Portfolio](https://henryxaz.github.io)
+- 🌐 [Personal Page](https://henryxaz.github.io)
 - 📧 [Email](mailto:henry.gustavo.x.az@gmail.com)
 
 </div>
